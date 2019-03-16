@@ -214,8 +214,8 @@ font:
 #social:
   #LinkLabel: Link
 social:
-    GitHub: https://github.com/ShixiangWang
-    简书: http://www.jianshu.com/u/b6608e27dc74
+    #GitHub: https://github.com/ShixiangWang
+    #简书: http://www.jianshu.com/u/b6608e27dc74
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -340,8 +340,8 @@ post_wordcount:
 # Declare license on posts
 post_copyright:
   enable: true
-  license: CC BY-NC-SA 3.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  license: HangShuiCheung
+  license_url: https://hangshuicheung.xyz/
 
 
 
