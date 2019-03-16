@@ -77,7 +77,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "thinkpad,amd,nvidia,c++"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -383,7 +383,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 36443ede179652b0cf6a526f12b1976f
+#baidu_analytics: 36443ede179652b0cf6a526f12b1976f
 
 # Duoshuo ShortName
 #duoshuo_shortname:
