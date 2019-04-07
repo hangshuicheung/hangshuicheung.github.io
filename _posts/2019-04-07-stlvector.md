@@ -3,7 +3,7 @@ layout: post
 title: "STL真香！Vector容器一遍过（1）"
 date: 2019-04-07
 categories: OI
-tags: [OI] [C++] [STL] [Vector]
+tags: [OI]  [STL]  [Vector] 
 ---
 
 题目来自学校OJ（XOJ 3433 测验1256, 问题H:3433: 简单数列操作）
